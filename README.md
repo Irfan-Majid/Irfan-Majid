@@ -28,8 +28,8 @@ Currently expanding my expertise in:
 
 ## 📫 Contact Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
+- **Email:** [sirirfanmajid@egmail.com](sirirfanmajid@egmail.com)
+- **LinkedIn:** [Abdul Majid Irfan]([link-to-linkedin](https://www.linkedin.com/in/irfan-majid/))
 
 ---
 
