@@ -1,4 +1,4 @@
-# [Abdul Majid Irfan]
+# Abdul Majid Irfan
 
 Senior Full-Stack Developer specializing in **Laravel**, **PHP**, **Vue**, and **React** with over **3 years of professional experience**. Passionate about building efficient and scalable applications, contributing to open-source projects, and continuously enhancing my skill set.
 
