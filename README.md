@@ -15,7 +15,7 @@ Senior Full-Stack Developer specializing in **Laravel**, **PHP**, **Vue**, and *
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfan-Majid&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&count_private=true)
 
 ## 🌱 What I'm Learning
 
