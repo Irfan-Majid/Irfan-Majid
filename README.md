@@ -29,7 +29,7 @@ Currently expanding my expertise in:
 ## 📫 Contact Me
 
 - **Email:** [sirirfanmajid@egmail.com](sirirfanmajid@egmail.com)
-- **LinkedIn:** [Abdul Majid Irfan]([link-to-linkedin](https://www.linkedin.com/in/irfan-majid/))
+- **LinkedIn:** [Abdul Majid Irfan](https://www.linkedin.com/in/irfan-majid/)
 
 ---
 
