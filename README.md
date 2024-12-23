@@ -20,7 +20,6 @@ Senior Full-Stack Developer specializing in **Laravel**, **PHP**, **Vue**, and *
 ## 🌱 What I'm Learning
 
 Currently expanding my expertise in:
-- Advanced **Laravel** architecture, such as repository patterns and service providers
 - **React** ecosystem (Next.js, Redux Toolkit)
 - Integrations with **Google Services** and **GitHub Actions**
 
