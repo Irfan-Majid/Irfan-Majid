@@ -9,7 +9,7 @@ Senior Full-Stack Developer specializing in **Laravel**, **PHP**, **Vue**, and *
 - **Back-End:** Laravel, PHP, Node.js, MySQL, PostgreSQL
 - **Front-End:** Vue.js, React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 - **Tools & Platforms:** Git, GitHub, Laragon, REST APIs, GraphQL
-- **Other:** GitHub Actions, CI/CD, Docker , Server Management(optional if you use it)
+- **Other:** GitHub Actions, CI/CD, Docker , Server Management
 
 
 
