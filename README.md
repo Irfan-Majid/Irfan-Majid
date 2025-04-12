@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdul Majid Irfan
+# <div align="center">👋 Hi, I'm Abdul Majid Irfan</div>
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
 </div>
 
-## 🚀 Senior Full-Stack Developer
+## <div align="center">🚀 Senior Full-Stack Developer</div>
 
 <div align="center">
   
@@ -14,11 +14,15 @@
   
 </div>
 
-Passionate about building efficient and scalable applications with over **3 years of professional experience**. Specializing in modern web technologies and committed to continuous learning and open-source contributions.
+<div align="center">
+  
+  Passionate about building efficient and scalable applications with over **3 years of professional experience**. Specializing in modern web technologies and committed to continuous learning and open-source contributions.
+  
+</div>
 
 ---
 
-## 🏆 Certifications
+## <div align="center">🏆 Certifications</div>
 
 <div align="center">
   
@@ -28,15 +32,19 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- **AWS Certified Solutions Architect** - 2023
-- **Laravel Certified Developer** - 2022
-- **Microsoft Certified: Azure Developer Associate** - 2023
+<div align="center">
+  
+  - **AWS Certified Solutions Architect** - 2023
+  - **Laravel Certified Developer** - 2022
+  - **Microsoft Certified: Azure Developer Associate** - 2023
+  
+</div>
 
 ---
 
-## 🛠️ Technical Stack
+## <div align="center">🛠️ Technical Stack</div>
 
-### Backend Development
+### <div align="center">Backend Development</div>
 <div align="center">
   
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -51,7 +59,7 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-### Frontend Development
+### <div align="center">Frontend Development</div>
 <div align="center">
   
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -66,7 +74,7 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-### DevOps & Tools
+### <div align="center">DevOps & Tools</div>
 <div align="center">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,7 +91,7 @@ Passionate about building efficient and scalable applications with over **3 year
 
 ---
 
-## 📊 GitHub Analytics
+## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
   
@@ -106,7 +114,7 @@ Passionate about building efficient and scalable applications with over **3 year
 
 ---
 
-## 🌱 Currently Learning
+## <div align="center">🌱 Currently Learning</div>
 
 <div align="center">
   
@@ -118,16 +126,20 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- **React Ecosystem**: Next.js, Redux Toolkit, React Query
-- **Cloud Services**: Google Cloud Platform, AWS, Azure
-- **DevOps**: Advanced CI/CD practices, Kubernetes, Terraform
-- **Testing**: Jest, Cypress, PHPUnit
-- **Architecture**: Microservices, Event-Driven Architecture
-- **Programming Languages**: Go, Rust
+<div align="center">
+  
+  - **React Ecosystem**: Next.js, Redux Toolkit, React Query
+  - **Cloud Services**: Google Cloud Platform, AWS, Azure
+  - **DevOps**: Advanced CI/CD practices, Kubernetes, Terraform
+  - **Testing**: Jest, Cypress, PHPUnit
+  - **Architecture**: Microservices, Event-Driven Architecture
+  - **Programming Languages**: Go, Rust
+  
+</div>
 
 ---
 
-## 💼 Professional Experience
+## <div align="center">💼 Professional Experience</div>
 
 <div align="center">
   
@@ -138,18 +150,22 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- **Full-Stack Development**: Building scalable web applications with modern frameworks
-- **API Development**: Designing and implementing RESTful and GraphQL APIs
-- **Database Management**: Optimizing queries and database design for performance
-- **DevOps**: Implementing CI/CD pipelines and containerization
-- **Code Review**: Ensuring code quality and best practices
-- **Team Leadership**: Mentoring junior developers and leading technical discussions
-- **Architecture Design**: Creating scalable and maintainable system architectures
-- **Performance Optimization**: Implementing caching strategies and query optimization
+<div align="center">
+  
+  - **Full-Stack Development**: Building scalable web applications with modern frameworks
+  - **API Development**: Designing and implementing RESTful and GraphQL APIs
+  - **Database Management**: Optimizing queries and database design for performance
+  - **DevOps**: Implementing CI/CD pipelines and containerization
+  - **Code Review**: Ensuring code quality and best practices
+  - **Team Leadership**: Mentoring junior developers and leading technical discussions
+  - **Architecture Design**: Creating scalable and maintainable system architectures
+  - **Performance Optimization**: Implementing caching strategies and query optimization
+  
+</div>
 
 ---
 
-## 🏆 Achievements
+## <div align="center">🏆 Achievements</div>
 
 <div align="center">
   
@@ -157,18 +173,22 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- Successfully delivered multiple enterprise-level applications
-- Contributed to open-source projects with significant impact
-- Implemented CI/CD pipelines reducing deployment time by 50%
-- Optimized database queries improving application performance by 40%
-- Led development teams in implementing best practices
-- Received recognition for technical excellence and innovation
-- Published technical articles on Medium and Dev.to
-- Speaker at local tech meetups and conferences
+<div align="center">
+  
+  - Successfully delivered multiple enterprise-level applications
+  - Contributed to open-source projects with significant impact
+  - Implemented CI/CD pipelines reducing deployment time by 50%
+  - Optimized database queries improving application performance by 40%
+  - Led development teams in implementing best practices
+  - Received recognition for technical excellence and innovation
+  - Published technical articles on Medium and Dev.to
+  - Speaker at local tech meetups and conferences
+  
+</div>
 
 ---
 
-## 📚 Featured Projects
+## <div align="center">📚 Featured Projects</div>
 
 <div align="center">
   
@@ -176,25 +196,29 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-### [Project Name 1]
-- Description of the project
-- Technologies used
-- Key features
-- [Live Demo](https://project1-demo.com)
-- [GitHub Repository](https://github.com/your-username/project1)
-- [Case Study](https://medium.com/your-case-study)
-
-### [Project Name 2]
-- Description of the project
-- Technologies used
-- Key features
-- [Live Demo](https://project2-demo.com)
-- [GitHub Repository](https://github.com/your-username/project2)
-- [Case Study](https://medium.com/your-case-study)
+<div align="center">
+  
+  ### [Project Name 1]
+  - Description of the project
+  - Technologies used
+  - Key features
+  - [Live Demo](https://project1-demo.com)
+  - [GitHub Repository](https://github.com/your-username/project1)
+  - [Case Study](https://medium.com/your-case-study)
+  
+  ### [Project Name 2]
+  - Description of the project
+  - Technologies used
+  - Key features
+  - [Live Demo](https://project2-demo.com)
+  - [GitHub Repository](https://github.com/your-username/project2)
+  - [Case Study](https://medium.com/your-case-study)
+  
+</div>
 
 ---
 
-## 📝 Technical Writing
+## <div align="center">📝 Technical Writing</div>
 
 <div align="center">
   
@@ -202,13 +226,17 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- [Article Title 1](https://medium.com/your-article-1)
-- [Article Title 2](https://medium.com/your-article-2)
-- [Article Title 3](https://medium.com/your-article-3)
+<div align="center">
+  
+  - [Article Title 1](https://medium.com/your-article-1)
+  - [Article Title 2](https://medium.com/your-article-2)
+  - [Article Title 3](https://medium.com/your-article-3)
+  
+</div>
 
 ---
 
-## 📫 Let's Connect
+## <div align="center">📫 Let's Connect</div>
 
 <div align="center">
   
@@ -223,7 +251,7 @@ Passionate about building efficient and scalable applications with over **3 year
 
 ---
 
-## 🎯 Goals
+## <div align="center">🎯 Goals</div>
 
 <div align="center">
   
@@ -231,16 +259,20 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-- Contribute to more open-source projects
-- Build scalable and maintainable applications
-- Share knowledge through technical writing
-- Mentor aspiring developers
-- Obtain AWS Solutions Architect certification
-- Master advanced React patterns and best practices
-- Speak at tech conferences and meetups
-- Build a strong technical community
-- Publish a technical book
-- Start a tech podcast
+<div align="center">
+  
+  - Contribute to more open-source projects
+  - Build scalable and maintainable applications
+  - Share knowledge through technical writing
+  - Mentor aspiring developers
+  - Obtain AWS Solutions Architect certification
+  - Master advanced React patterns and best practices
+  - Speak at tech conferences and meetups
+  - Build a strong technical community
+  - Publish a technical book
+  - Start a tech podcast
+  
+</div>
 
 ---
 
@@ -256,4 +288,8 @@ Passionate about building efficient and scalable applications with over **3 year
   
 </div>
 
-*Feel free to reach out for collaboration or just to say hi! 👋*
+<div align="center">
+  
+  *Feel free to reach out for collaboration or just to say hi! 👋*
+  
+</div>
